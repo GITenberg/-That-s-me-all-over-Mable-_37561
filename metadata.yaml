@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5321
     wikipedia: http://en.wikipedia.org/wiki/Edward_Streeter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37561#-That-s-me-all-over-Mable-
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2011-09-29'
 gutenberg_type: Text
